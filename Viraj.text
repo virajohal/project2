@@ -1,5 +1,7 @@
 name=Viraj Bhaskar ohal
 address=Moshi pune
 mo.no=9403714749
+git remote add origin git@github.com:virajohal/project2.git
 
-git@github.com:virajohal/project2.git
+
+CRATE new Branch
